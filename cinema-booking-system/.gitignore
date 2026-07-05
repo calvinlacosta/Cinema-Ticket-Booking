@@ -1,0 +1,3 @@
+uploads/*
+!uploads/movie-posters/
+!uploads/movie-posters/.gitkeep
